@@ -1,12 +1,12 @@
-# Hi
+# Kana
 
-A hiragana and katakana cheat sheet printer
+A hiragana and katakana cheat sheet printer.
 
-![](https://user-images.githubusercontent.com/33803413/80825054-ef7aed00-8bdf-11ea-946d-896c0687b73b.png)
+![](https://user-images.githubusercontent.com/33803413/99803905-7c64a400-2b3a-11eb-83de-40d62ce9d615.png)
 
 ## Usage
 ```sh
-hi.sh [-h] [-t charsets-list] [-o table-names-list]
+kana.sh [-h] [-t charsets-list] [-o table-names-list]
 ```
 
 `charsets-list` is a comma-separated list of types of character sets. Possible values are: `hiragana` and `katakana`.

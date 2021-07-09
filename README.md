@@ -2,7 +2,9 @@
 
 A hiragana and katakana cheat sheet printer.
 
-![](https://user-images.githubusercontent.com/33803413/99803905-7c64a400-2b3a-11eb-83de-40d62ce9d615.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/33803413/125096901-dc15bc80-e0d5-11eb-83e4-2dde440f5fc1.png" />
+</p>
 
 ## Usage
 ```sh
